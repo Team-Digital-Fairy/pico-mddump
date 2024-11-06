@@ -1,0 +1,8 @@
+gerber/
+pos/
+production/
+fp-info-cache
+*.csv
+*.lck
+*.pdf
+*-backups/
